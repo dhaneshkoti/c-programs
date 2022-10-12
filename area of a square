@@ -9,4 +9,5 @@ int main() {
    printf("The area is : %d", side * side );
 
     return 0;
+    
 }
