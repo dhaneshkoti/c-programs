@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   int side;
+   int side,i;
    
    printf("enter side : ");
    scanf("%d", &side);
